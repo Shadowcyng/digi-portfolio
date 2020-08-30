@@ -1,0 +1,29 @@
+.logo {
+  width: 25%;
+}
+
+
+.nav-theme{
+  font-size: 20px;
+  background-color: #101018f8;
+  opacity: 0.6;
+}
+.nav-theme:hover{
+  opacity: 0.9;
+  transition: .25s ease-in-out;
+}
+
+
+.animate-navbar{
+  animation: moveDown 0.5s ease-in-out;
+  box-shadow: 1px 1px 1px #222;
+}
+
+@keyframes moveDown {
+  from {
+    transform: translateY(-5rem);
+  }
+  to {
+    transform: translateY(0rem);
+  }
+}

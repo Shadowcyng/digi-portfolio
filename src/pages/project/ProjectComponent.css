@@ -1,0 +1,54 @@
+.product-details{
+    font-weight: 500;
+   color: #fff;
+}
+.toggle{
+    background-color: #138496;
+    cursor: pointer;
+}
+.project-title{
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.project-descrption{
+    color:#343a40;
+    font-size: 1.1rem;
+    font-weight: 550;
+}
+.project-list-head{
+    font-weight: bold;
+}
+.project-list{
+    list-style-type: circle;
+}
+.project-list > li{
+    color: #343a40;
+    font-size: 1.05rem;
+}
+
+.tabs{
+    font-size: large;
+    margin-bottom: 2rem;
+    border-bottom: .1rem solid #fff;
+    padding-bottom: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.tab{
+    text-align: center;
+    color: #fff !important;
+    background-color: #000 !important;
+    opacity: 0.6;
+}
+.tab:active{
+    border: none;
+    outline: none;
+    color: #000 !important;
+    background: #fff !important;
+}
+.tab:focus{
+    color: #000 !important;
+    background: #fff !important;
+    opacity: 1;
+}

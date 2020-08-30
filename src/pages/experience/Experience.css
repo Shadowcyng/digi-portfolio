@@ -1,0 +1,22 @@
+.first-element{
+  color: #2196F3;
+  font-weight: 1000;
+}
+.date{
+  color: #fff;
+  font-weight: 1000;
+}
+.second-element{
+  color: #E91E63;
+  font-weight: 1000;
+}
+.sub-title{
+  color: #6c757d;
+}
+.paragraph{  
+  color: #343a40;
+}
+  .strong{
+  padding-right: .5rem;
+  color: rgb(0, 0, 0);
+}

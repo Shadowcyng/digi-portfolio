@@ -1,0 +1,18 @@
+.profile-img{
+    max-width: 18em;
+    width: 100%;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.4);
+
+}
+.about-container {
+    background-color: transparent;
+    font-size: 1.1em;
+  }
+  .my-intro {
+    background-color: rgba(255, 255, 255);
+    box-shadow: 2px 4px 10px rgba(34, 33, 33, 0.2);
+
+  }
+  .heading{
+    color: #F2F3F3;
+  }

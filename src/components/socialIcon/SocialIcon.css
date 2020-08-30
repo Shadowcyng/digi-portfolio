@@ -1,0 +1,36 @@
+.social-icons
+{
+top:40%;
+height: 0;
+transform: translateY(-30%);
+position:sticky;
+z-index:2;
+width:80px;
+}
+.social-icons ul
+{
+padding:initial;
+}
+.social-icons ul li
+{
+height:40px;
+width:40px;
+list-style-type:none;
+padding-left:12px;
+padding-top: 6px;
+margin-top:5px;
+color:#000;
+background:#fff;
+}
+.social-icons ul li:hover
+{
+padding-left:30px;
+width:80px;
+transition:.6s;
+}
+.social-icons ul li .fa
+{
+padding-top:10px;
+text-align: center;
+
+}
