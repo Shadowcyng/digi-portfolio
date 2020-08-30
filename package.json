@@ -1,6 +1,6 @@
 {
-  "name": "shadowcyng_react",
-  "homepage": "https://Shadowcyng.github.io/DigiPortfolio",
+  "name": "shadowcyng-react",
+  "homepage": "https://Shadowcyng.github.io/digi-portfolio",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
