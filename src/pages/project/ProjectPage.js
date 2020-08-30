@@ -1,9 +1,8 @@
 import React from 'react'
 import ProjectComponent from './ProjectComponent'
 import { Projects } from './MyProjects'
-import {Container,Tab,Tabs, Row, CardColumns } from 'react-bootstrap'
+import {Tab,Tabs, CardColumns } from 'react-bootstrap'
 import './ProjectComponent.css'
-import { Slide } from '@material-ui/core'
 import Graphics from './graphic/Graphics'
 
 

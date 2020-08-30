@@ -1,16 +1,9 @@
 import React from "react";
 import Header from "./components/header/Header";
-
-
-// import TimeLine from "./components/projects-timeline/projects-timeline.component";
-// import Experience from "./pages/experience/experience.component";
 import Slide from "react-reveal/Slide";
 import Bounce from "react-reveal/Bounce";
-// import ContactForm from "./pages/contact-form/contact-form.component";
 import Container from "react-bootstrap/Container";
 import { Parallax } from "react-parallax";
-import Particles from "react-particles-js";
-import { particlesOptions } from './utill/ParticalOptions';
 import Footer from "./components/footer/Footer";
 import Experience from './pages/experience/Experience'
 import "./App.css";

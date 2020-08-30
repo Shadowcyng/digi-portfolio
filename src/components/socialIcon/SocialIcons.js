@@ -9,7 +9,7 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 
 const SocialIcons = () => {
     return (
-<div class="social-icons">
+<div className="social-icons">
 <ul>
 <a href="tel:+917037410641"><li><CallIcon /></li></a>
 <a href="mailto:satyam.singhania123@gmail.com" target='_blank' ><li><MailIcon /></li></a>

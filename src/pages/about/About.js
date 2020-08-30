@@ -7,7 +7,6 @@ import Col from 'react-bootstrap/Col'
 import Button from 'react-bootstrap/Button'
 import Image from 'react-bootstrap/Image'
 
-import Slide from "react-reveal/Slide";
 
 
 import './About.css'
@@ -31,8 +30,8 @@ const About = () => {
         <Container>
             <Row className="pt-3 pb-5 align-items-center">
                 <Col md={6} xs={12}>
-                    <Row className='justify-content-center mb-2 mr-2' style={{transform: `translateY(${offsetY * 0.07}px)`}}>
-                        <Image className="profile-img justify-content-end" alt='profile' src={Profile} thumbnail fluid />
+                    <Row className='justify-content-center mb-2 mr-2 profile-image-container' style={{transform: `translateY(${offsetY * 0.07}px)`}}>
+                        <Image className="profile-img justify-content-end" alt='profile' src={Profile}  thumbnail fluid />
                     </Row>
                 </Col>
                 <Col md={6} xs={12}>

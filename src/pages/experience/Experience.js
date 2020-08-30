@@ -24,6 +24,7 @@ const experience = () => {
       <p className='paragraph'>
        <strong  className='strong'>Location:</strong>  Chennai, India <br/>
        <strong className='strong'>Role:</strong>  Developer & Production Support <br/>
+       <strong className='strong'>Duration:</strong>  Sept. 2019 - Present <br/>
        <strong  className='strong'>Account:</strong> Kemper<br/>
        <strong  className='strong'>Techology:</strong> Guidewire, h2
       </p>
@@ -43,6 +44,7 @@ const experience = () => {
       <p  className='paragraph'>
       <strong  className='strong'>Location:</strong> Ghaziabad, India<br/>
        <strong  className='strong'>Role:</strong> Grapic Designer<br/>
+       <strong className='strong'>Duration:</strong>   2017 - 2019 <br/>
        <strong  className='strong'>Tools:</strong> Photoshop, CorelDraw, Canva
       </p>
       <p className='paragraph'>

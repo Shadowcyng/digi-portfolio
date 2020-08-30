@@ -16,3 +16,16 @@
   .heading{
     color: #F2F3F3;
   }
+  @media only screen and (max-width: 761px){
+    .my-intro{
+      transform: none !important;
+    } 
+    .profile-image-container{
+      transform: none !important;
+      
+    }
+    .heading{
+      transform: none !important;
+    }
+  }
+  

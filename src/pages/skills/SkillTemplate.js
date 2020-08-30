@@ -12,7 +12,7 @@ const SkillTemplate = ({skillSet, title}) => {
         <Card className='focus mt-2 mb-2'>
         <Card.Body>
           <Card.Title className='text-center card-title'>{title}</Card.Title>
-          <hr />
+          <hr className='hr' />
           <Row>
       
             <Col sm  className='d-flex flex-column justify-content-start align-content-start'>
