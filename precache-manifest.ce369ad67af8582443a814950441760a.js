@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d764dff1210f4a8a6c84209e83bf014",
+    "revision": "176f1f5a519cd06ab9035eafb704de08",
     "url": "/digi-portfolio/index.html"
   },
   {
-    "revision": "bf846c2a5993777835b2",
+    "revision": "3ee288a5e281ab31b9f0",
     "url": "/digi-portfolio/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "3811d94f280f68e4b87d",
-    "url": "/digi-portfolio/static/css/main.ef97bc28.chunk.css"
+    "revision": "db48cadfb0ef80022205",
+    "url": "/digi-portfolio/static/css/main.b2b84b83.chunk.css"
   },
   {
-    "revision": "bf846c2a5993777835b2",
-    "url": "/digi-portfolio/static/js/2.d4fce170.chunk.js"
+    "revision": "3ee288a5e281ab31b9f0",
+    "url": "/digi-portfolio/static/js/2.b3704785.chunk.js"
   },
   {
     "revision": "cf1b129b5c272ab5c924fa9150c8b22d",
-    "url": "/digi-portfolio/static/js/2.d4fce170.chunk.js.LICENSE.txt"
+    "url": "/digi-portfolio/static/js/2.b3704785.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3811d94f280f68e4b87d",
-    "url": "/digi-portfolio/static/js/main.619a6cd9.chunk.js"
+    "revision": "db48cadfb0ef80022205",
+    "url": "/digi-portfolio/static/js/main.899122d9.chunk.js"
   },
   {
     "revision": "aed40a4748589ccd0f78",
@@ -114,10 +114,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6e42c37f49d2c87493cdef31abd07355",
     "url": "/digi-portfolio/static/media/adobe-photoshop.6e42c37f.svg"
-  },
-  {
-    "revision": "e95d05630894e5403e569fdaa0a2b61a",
-    "url": "/digi-portfolio/static/media/background.e95d0563.webp"
   },
   {
     "revision": "ffded2381d25dd906406d6e07f91dea5",
