@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "176f1f5a519cd06ab9035eafb704de08",
+    "revision": "a87d5cbcdf01b151d45760c15a4e57ab",
     "url": "/digi-portfolio/index.html"
   },
   {
-    "revision": "3ee288a5e281ab31b9f0",
+    "revision": "b225b87236bb853f6f41",
     "url": "/digi-portfolio/static/css/2.ac1ab58b.chunk.css"
   },
   {
-    "revision": "db48cadfb0ef80022205",
-    "url": "/digi-portfolio/static/css/main.b2b84b83.chunk.css"
+    "revision": "5b1d1a5c91c7ed17a062",
+    "url": "/digi-portfolio/static/css/main.e3511965.chunk.css"
   },
   {
-    "revision": "3ee288a5e281ab31b9f0",
-    "url": "/digi-portfolio/static/js/2.b3704785.chunk.js"
+    "revision": "b225b87236bb853f6f41",
+    "url": "/digi-portfolio/static/js/2.f00e14e6.chunk.js"
   },
   {
     "revision": "cf1b129b5c272ab5c924fa9150c8b22d",
-    "url": "/digi-portfolio/static/js/2.b3704785.chunk.js.LICENSE.txt"
+    "url": "/digi-portfolio/static/js/2.f00e14e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db48cadfb0ef80022205",
-    "url": "/digi-portfolio/static/js/main.899122d9.chunk.js"
+    "revision": "5b1d1a5c91c7ed17a062",
+    "url": "/digi-portfolio/static/js/main.cfd679cd.chunk.js"
   },
   {
     "revision": "aed40a4748589ccd0f78",
@@ -100,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digi-portfolio/static/media/Chat-Box.1fc9cc14.webp"
   },
   {
+    "revision": "b59cdb049f7aa597280d3f48a2f9f662",
+    "url": "/digi-portfolio/static/media/Covid19.b59cdb04.webp"
+  },
+  {
     "revision": "168a2808a97b064b374235e3dafbe046",
     "url": "/digi-portfolio/static/media/Face-Detection.168a2808.webp"
   },
@@ -128,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digi-portfolio/static/media/express.c6bab64b.svg"
   },
   {
-    "revision": "1c415532b1999396ccad8b51a601e36e",
-    "url": "/digi-portfolio/static/media/firebase.1c415532.svg"
+    "revision": "3435e3d44fb5e6e8e1bfda0e72b38881",
+    "url": "/digi-portfolio/static/media/firebase.3435e3d4.svg"
   },
   {
     "revision": "1190a19ce3cc940741a60137a1e074cb",
@@ -142,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "676e8188f003ed5d4882a0d0f378dad3",
     "url": "/digi-portfolio/static/media/html-5.676e8188.svg"
+  },
+  {
+    "revision": "724bbab7a9db3e71260fcc145b7b4df6",
+    "url": "/digi-portfolio/static/media/inshare.724bbab7.webp"
   },
   {
     "revision": "13a096531e50277a3fb17460c39db221",
@@ -176,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/digi-portfolio/static/media/profile.8763c5c6.webp"
   },
   {
-    "revision": "83fe61b05935f090b671b08aeb77b63d",
-    "url": "/digi-portfolio/static/media/react-bootstrap.83fe61b0.svg"
+    "revision": "ef194ddf5faf63cb6cc580a4535be695",
+    "url": "/digi-portfolio/static/media/react-bootstrap.ef194ddf.svg"
   },
   {
     "revision": "024196716802e272adb3cbefb81fd557",
