@@ -1,36 +1,31 @@
-import React from 'react'
-import ProjectComponent from './ProjectComponent'
-import { Projects } from './MyProjects'
-import {Tab,Tabs, CardColumns } from 'react-bootstrap'
-import './ProjectComponent.css'
-import Graphics from './graphic/Graphics'
-
-
+import React from "react";
+import ProjectComponent from "./ProjectComponent";
+import { Projects } from "./MyProjects";
+import { Tab, Tabs, CardColumns } from "react-bootstrap";
+import "./ProjectComponent.css";
+import Graphics from "./graphic/Graphics";
 
 const ProjectPage = () => {
-    return (
-        <div className="pt-3 pb-3" id="projects">
-        <h1 className="text-center font-details-b pb-4">PROJECTS</h1>
-        <Tabs 
-        variant='tabs'
-         defaultActiveKey="1" 
-        className='tabs'
-         >
-            <Tab tabClassName='tab text-center'  eventKey="1" title="Development">
-                <CardColumns>
-                <ProjectComponent project = {Projects.faceDetection}/>
-                <ProjectComponent project = {Projects.screams}/>
-                <ProjectComponent project = {Projects.chatBox} />
-                <ProjectComponent project = {Projects.instaClone}/>
-                </CardColumns>
-            </Tab>
-            <Tab tabClassName='tab' eventKey="2" title="Graphic">
-               <Graphics />
-            </Tab>
+  return (
+    <div className="pt-3 pb-3" id="projects">
+      <h1 className="text-center font-details-b pb-4">PROJECTS</h1>
+      <Tabs variant="tabs" defaultActiveKey="1" className="tabs">
+        <Tab tabClassName="tab text-center" eventKey="1" title="Development">
+          <CardColumns>
+            <ProjectComponent project={Projects.covid19tracker} />
+            <ProjectComponent project={Projects.inshare} />
+            <ProjectComponent project={Projects.faceDetection} />
+            <ProjectComponent project={Projects.screams} />
+            <ProjectComponent project={Projects.chatBox} />
+            <ProjectComponent project={Projects.instaClone} />
+          </CardColumns>
+        </Tab>
+        <Tab tabClassName="tab" eventKey="2" title="Graphic">
+          <Graphics />
+        </Tab>
+      </Tabs>
+    </div>
+  );
+};
 
-            </Tabs>
-                    </div>
-                )
-            }
-
-export default ProjectPage
+export default ProjectPage;

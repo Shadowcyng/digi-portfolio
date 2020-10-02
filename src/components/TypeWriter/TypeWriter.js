@@ -31,7 +31,7 @@ div{
 const TypeWriter = () => {
     return (
         <Titile>
-            <div>
+            <div >
                 <div className='main text-center mb-3'>
                     Hi, I am
                     <br />

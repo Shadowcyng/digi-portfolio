@@ -17,7 +17,7 @@ import Contact from "./pages/contact/Contact";
 
 const App = () => {
   return (
-    <div className="App" style={{ position: "relative",height:'100%' }}>
+    <div className="App body" style={{ position: "relative",height:'100%' }}>
       <Header />
       <MyCarousel />
       <TypeWriter />
