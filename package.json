@@ -2,7 +2,7 @@
   "name": "shadowcyng-react",
   "homepage": "https://Shadowcyng.github.io/digi-portfolio",
   "version": "1.0.0",
-    "private": true,
+  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",

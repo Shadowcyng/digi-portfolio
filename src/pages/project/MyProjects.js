@@ -13,7 +13,7 @@ export const Projects = {
     gitLink: "https://github.com/Shadowcyng/covid19-tracker",
     liveLink: "https://covid19-tracker-4c0d9.web.app/",
     description:
-      "This is a COVID-19 tracker using react js. I took the data from disease.sh. I used react-leaflet, Line-Graph, and other resources to create this. Data will update after every 10 minutes.",
+      "This is a COVID-19 tracker using reactJS. I took the data from disease.sh. I used react-leaflet, Line-Graph, and other resources to create this. Data will update after every 10 minutes.",
     features: ["Map", "Realtime Data", "Chart", "Leaflet"],
     tech: ["React", "Redux", "Firebase"],
   },
@@ -24,7 +24,7 @@ export const Projects = {
     gitLink: "https://github.com/Shadowcyng/inshare",
     liveLink: "https://shadowcyng.github.io/inshare-frontend/",
     description:
-      "This is a file-sharing web app using vanilla javascript and node-js. One just needs to upload or drag a file in the app. The app will generate a link. One can copy the link or directly send it via email.",
+      "This is a file-sharing web app using vanilla JS and nodejs. One just needs to upload or drag a file in the app. The app will generate a link. One can copy the link or directly send it via email.",
     features: ["file upload, generate downloadable link, quick mail"],
     tech: ["JavaScript", "Nodejs", "Expressjs", "MongoDB"],
   },
