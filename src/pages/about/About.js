@@ -74,7 +74,7 @@ const About = () => {
 									</Button>
 								</a>
 								<a
-									href='https://drive.google.com/file/d/1VgtKTGHMpJf-o8GDC6eHK2WQxq-JPszK/view?usp=sharing'
+									href='https://drive.google.com/file/d/1vu8xYaMT_mgha3fGTcENNjmyMTAZ9Rzp/view?usp=sharing'
 									target='_blank'
 									rel='noopener noreferrer'
 								>
